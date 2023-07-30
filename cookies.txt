@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.gropia.net	TRUE	/	FALSE	1999999999	PHPSESSID	36685a5092add9d75bcfac65eb2a2ceb
+www.gropia.net	TRUE	/	FALSE	1999999999	help	view
+
